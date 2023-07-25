@@ -9,8 +9,10 @@
 ## Цель исследования
 Предсказать качество вина с помощью алгоритмов классификации и выбрать из них самый эффективный.
 
-## Результат
+## Методы исследования
+Исследование произведено в среде google collab блокнота и находится в файле research.ipynb .
 
+## Результат
 Из 4-х алгоритмов: LogisticRegression, SVC, DecisionTreeClassifier, RandomForestClassifier, 
 лучше всего себя показал RandomForestClassifier.
 
